@@ -1,0 +1,2 @@
+fata,skin
+kunne,ear
