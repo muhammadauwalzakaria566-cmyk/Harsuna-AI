@@ -1,3 +1,4 @@
-number = 56
-print = (type(number))
-number = int (number)
+number = 24
+nu = 4
+resu = nu ** number
+print(resu)
