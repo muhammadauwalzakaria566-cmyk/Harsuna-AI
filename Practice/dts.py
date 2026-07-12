@@ -1,0 +1,3 @@
+help(int)
+print(help
+      )

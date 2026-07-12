@@ -1,0 +1,1 @@
+print ('This is my first time using python but in the next three mounth insha Allah I am going to start trending')
